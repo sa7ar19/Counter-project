@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(32, 32, 32);
+    color: white;
+}
+.sec {
+    text-align: center;
+    margin-top: 200px;
+    text-shadow: 3px 7px 19px black ;
+}
+.head {
+    font-size: 50px;
+}
+.counter {
+    font-size: 100px;
+    margin: 50px;
+}
+.btn {
+    padding: 6px 10px;
+    margin-left: 15px;
+    border-radius: 10px;
+    font-size: medium;
+    border: none;
+    box-shadow: 2px 2px 15px 0px black ;
+}
+button:hover {
+    background-color: #8097A6;
+    color: #ffffff;
+    cursor: pointer;
+}
+.attribution{
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    font-size: 0.8rem;
+    background-color: #8097A6;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 5px 1px eegba(255, 255, 255, 0.2);
+}
+.attribution a {
+    color: rgb(28, 27, 26);
+}
